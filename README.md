@@ -1,4 +1,5 @@
 # OpenGL-project
+* !The size of the project is bigger than the maximum capacity that can be uploaded on GitHub, so I uploaded only the scr files *
 * This project is an application that creates a fotorealistic scene using 3D objects.
 * To implement this project, I used some of the pre-implemented functionalities offered by the OpenGL library.
 * User can navigate around the scene and turn on/off special effects using the keyboard.
